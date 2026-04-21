@@ -1,0 +1,6 @@
+{
+  "name": "Lexical Analyzer",
+  "description": "A robust text analyzer that counts unique words, plots their frequency distribution, and maps relationships via bigrams. Supports processing large texts like entire books directly in the browser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
